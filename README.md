@@ -58,9 +58,9 @@ version is 4.3.11.
         'utility' \
         'completion' \
         'prompt'
-
-      zstyle ':prezto:prompt' theme 'skwp_psy'
-    ```
+        
+     zstyle ':prezto:prompt' theme 'skwp_psy'
+     ```
 
   5. Open a new Zsh terminal window or tab.
 
